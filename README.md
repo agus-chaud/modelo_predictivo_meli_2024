@@ -1,5 +1,4 @@
-## Pipeline de machine learning para predecir si un producto de un marketplace es **nuevo** o **usado**, utilizando un modelo **CatBoost** con búsqueda de hiperparámetros.
-
+## Pipeline de machine learning para predecir si un producto de un marketplace es **nuevo** o **usado**
 
 ### 1. Carga de datos
 - Lee los archivos `train_data.jsonlines` y `test_data.jsonlines` en formato JSON Lines.
